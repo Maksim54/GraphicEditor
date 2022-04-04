@@ -1,0 +1,12 @@
+C:\Users\Maksim\Source\Repos\tthk_lab2\tthk_lab2\bin\Debug\tthk_lab2.exe.config
+C:\Users\Maksim\Source\Repos\tthk_lab2\tthk_lab2\bin\Debug\tthk_lab2.exe
+C:\Users\Maksim\Source\Repos\tthk_lab2\tthk_lab2\bin\Debug\tthk_lab2.pdb
+C:\Users\Maksim\Source\Repos\tthk_lab2\tthk_lab2\obj\Debug\tthk_lab2.csprojAssemblyReference.cache
+C:\Users\Maksim\Source\Repos\tthk_lab2\tthk_lab2\obj\Debug\tthk_lab2.Form1.resources
+C:\Users\Maksim\Source\Repos\tthk_lab2\tthk_lab2\obj\Debug\tthk_lab2.Form2.resources
+C:\Users\Maksim\Source\Repos\tthk_lab2\tthk_lab2\obj\Debug\tthk_lab2.help.resources
+C:\Users\Maksim\Source\Repos\tthk_lab2\tthk_lab2\obj\Debug\tthk_lab2.Properties.Resources.resources
+C:\Users\Maksim\Source\Repos\tthk_lab2\tthk_lab2\obj\Debug\tthk_lab2.csproj.GenerateResource.cache
+C:\Users\Maksim\Source\Repos\tthk_lab2\tthk_lab2\obj\Debug\tthk_lab2.csproj.CoreCompileInputs.cache
+C:\Users\Maksim\Source\Repos\tthk_lab2\tthk_lab2\obj\Debug\tthk_lab2.exe
+C:\Users\Maksim\Source\Repos\tthk_lab2\tthk_lab2\obj\Debug\tthk_lab2.pdb
